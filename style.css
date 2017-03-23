@@ -1,0 +1,48 @@
+#name {background: #009900;}
+#movie {background:#ff3399;}
+.cooldesign {
+    padding:15px 35px;
+  background:purple;
+  color:white;
+  font-weight:bold;
+  font-size:25px;
+  transition:.5s;
+}
+.cooldesign:hover {
+    background-color:orange;
+  font-size:30px;
+  transition:.5s;
+  color:black;
+}
+h1 {
+  background:#ff3399;
+  text-align: center
+}
+p {
+  background:blue;
+  color:white;
+  width:50%;
+  margin:20px auto;
+}
+body {
+  background:#990000;
+  font-family: monospace;
+  text-align: center;
+}
+img {width:300px;}
+p:hover {background: pink;}
+#movie:hover {background:blue;}
+button {
+  padding:15px 35px;
+  background:purple;
+  color:white;
+  font-weight:bold;
+  font-size:20px;
+  transition:.5s;
+}
+button:hover {
+  background-color:orange;
+  font-size:20px;
+  transition:.5s;
+  color:black;
+}
